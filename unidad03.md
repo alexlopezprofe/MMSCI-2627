@@ -204,7 +204,9 @@ También se deben revisar:
 
 ### Comparación de factor de forma
 
-![](assets/img/Unidad03/U351.png)
+<img width="1920" height="1080" alt="imagen" src="https://github.com/user-attachments/assets/86b769b4-642b-4a5b-a14a-4d5d72ac2f82" />
+
+
 
 ## La estructura de la placa base
 
