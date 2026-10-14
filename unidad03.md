@@ -1,5 +1,5 @@
 
-# Unidad 3. Cajas, fuentes y placa base
+# Unidad 3. Cajas y placa base
 
 # Cajas
 
