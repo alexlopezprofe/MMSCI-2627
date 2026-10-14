@@ -91,31 +91,12 @@ Físicamente, es una placa de material sintético formada por un circuito impres
 
 ![](assets/img/Unidad03/U350.png)
 
-hazme unos apuntes de factores de forma de placas base
-
-
 
 
 ## Factor de forma de placas base
 
-El factor de forma son los estándares que definen algunas características físicas de las placas base. Existen diferentes tamaños y tipos de placas base. El factor de forma de la placa base determina el tamaño y orientación de la placa con respecto a la caja, el tipo de fuente de alimentación necesaria y dicta los periféricos que pueden integrarse en la placa.
 
-Hasta la fecha se han definido (y comercializado) diversos  **form factor**. 
-
-Los más importantes son:
-
-* **ATX (305 x 244 mm) y Micro-ATX** ((244 x 244 mm)) los más extendidos actualmente
-
-* **Mini-ITX** (170 x 170 mm) , Nano-ITX y Pico-ITX** . Formatos muy reducidos de VIA Technologies y compatibles con ATX.
-
-* **Extended ATX** (300 x 330 mm) . Factor de forma de mayor tamaño Están pensadas para configurar equipos de grandes prestaciones.
-
-
-# Apuntes: Factores de forma de las placas base
-
-## 1. ¿Qué es el factor de forma?
-
-El **factor de forma** de una placa base es el conjunto de características que determina su tamaño, sus dimensiones y la disposición de sus elementos principales.
+El **factor de forma** o **form factor** de una placa base es el conjunto de características que determina su tamaño, sus dimensiones y la disposición de sus elementos principales.
 
 Define aspectos como:
 
@@ -127,9 +108,6 @@ Define aspectos como:
 
 Es importante elegir un factor de forma compatible con la caja y con el resto de los componentes del equipo.
 
-## 2. Principales factores de forma
-
-Los factores de forma más habituales en ordenadores de sobremesa son ATX, Micro-ATX y Mini-ITX.
 
 ### 2.1. ATX
 
@@ -138,8 +116,6 @@ Los factores de forma más habituales en ordenadores de sobremesa son ATX, Micro
 *Imagen: [placa base ATX en Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Atx_computer_motherboard_with_cpu_and_fan.jpg).*
 
 **Dimensiones habituales: 305 × 244 mm**
-
-Es uno de los formatos más utilizados en ordenadores de sobremesa.
 
 - Ofrece numerosas ranuras de expansión.
 - Permite instalar varias unidades y tarjetas adicionales, según el modelo.
@@ -161,6 +137,8 @@ Es una versión más compacta que ATX.
 - Suele ser más económica en configuraciones básicas.
 - Es adecuada para ordenadores domésticos, educativos y de oficina.
 - Puede instalarse en cajas compatibles con Micro-ATX y, habitualmente, en cajas ATX.
+
+> ATX y miniATX son los factores de forma más utilizados actualmente.
 
 ### 2.3. Mini-ITX
 
