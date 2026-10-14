@@ -109,7 +109,7 @@ Define aspectos como:
 Es importante elegir un factor de forma compatible con la caja y con el resto de los componentes del equipo.
 
 
-### 2.1. ATX
+### ATX
 
 ![Ejemplo de placa base ATX](https://commons.wikimedia.org/wiki/Special:FilePath/Atx%20computer%20motherboard%20with%20cpu%20and%20fan.jpg?width=800)
 
@@ -122,7 +122,7 @@ Es importante elegir un factor de forma compatible con la caja y con el resto de
 - Suele proporcionar una buena capacidad de ampliación.
 - Necesita una caja compatible con ATX o de mayor tamaño que admita este formato.
 
-### 2.2. Micro-ATX (mATX)
+### Micro-ATX (mATX)
 
 ![Ejemplo de placa base Micro-ATX](https://commons.wikimedia.org/wiki/Special:FilePath/Материнская%20плата%20форм-фактора%20MicroATX.jpg?width=800)
 
@@ -140,7 +140,7 @@ Es una versión más compacta que ATX.
 
 > ATX y miniATX son los factores de forma más utilizados actualmente.
 
-### 2.3. Mini-ITX
+### Mini-ITX
 
 ![Ejemplo de placa base Mini-ITX](https://commons.wikimedia.org/wiki/Special:FilePath/Mini-itx-motherboard.jpg?width=800)
 
@@ -156,24 +156,8 @@ Está diseñado para equipos de tamaño reducido.
 - Puede limitar las posibilidades de ampliación.
 - Requiere comprobar la compatibilidad de la caja, la refrigeración y la fuente de alimentación.
 
-## 3. Comparativa de los principales formatos
 
-| Característica | ATX | Micro-ATX | Mini-ITX |
-|---|---|---|---|
-| Dimensiones | 305 × 244 mm | Hasta 244 × 244 mm | 170 × 170 mm |
-| Tamaño | Grande | Mediano | Pequeño |
-| Ranuras de expansión | Hasta 7 | Hasta 4 | Normalmente 1 |
-| Ampliación | Alta | Media | Limitada |
-| Espacio interior necesario | Mayor | Intermedio | Reducido |
-| Uso habitual | Gaming y equipos ampliables | Oficina y uso general | Mini-PC y equipos compactos |
-
-> **Nota:** las ranuras, conexiones y posibilidades de ampliación dependen del modelo concreto de placa base.
-
-## 4. Otros factores de forma
-
-Además de los tres formatos anteriores, existen otros estándares que conviene conocer.
-
-### 4.1. E-ATX (Extended ATX)
+### E-ATX (Extended ATX)
 
 ![Ejemplos de formatos ATX y Micro-ATX](https://commons.wikimedia.org/wiki/Special:FilePath/ATX%20Formate.jpg?width=800)
 
@@ -181,15 +165,15 @@ Además de los tres formatos anteriores, existen otros estándares que conviene 
 
 Es un formato extendido utilizado en equipos de altas prestaciones y estaciones de trabajo. Sus dimensiones varían según el estándar y el fabricante; puede ser más ancho que ATX y necesita una caja compatible.
 
-### 4.2. Flex-ATX
+### Flex-ATX
 
 Es un formato compacto derivado de ATX. Sus dimensiones máximas habituales son aproximadamente 229 × 191 mm. Se utiliza en determinados ordenadores pequeños.
 
-### 4.3. Mini-STX
+### Mini-STX
 
 Es un formato muy compacto, de aproximadamente 147 × 140 mm, utilizado en determinados equipos de pequeño tamaño. Sus posibilidades de expansión suelen ser reducidas.
 
-## 5. Compatibilidad entre placa base y caja
+### Compatibilidad entre placa base y caja
 
 Antes de montar un ordenador, hay que comprobar que la caja admite el factor de forma de la placa base.
 
@@ -205,7 +189,7 @@ También se deben revisar:
 - El espacio disponible para la refrigeración.
 - La ubicación de los conectores y los puntos de montaje.
 
-## 6. Resumen para estudiar
+### Resumen de factor de forma
 
 | Factor de forma | Dimensiones habituales | Característica principal |
 |---|---|---|
@@ -215,13 +199,6 @@ También se deben revisar:
 | Flex-ATX | Hasta aprox. 229 × 191 mm | Formato compacto derivado de ATX |
 | Mini-STX | Aprox. 147 × 140 mm | Equipos muy pequeños |
 | E-ATX | Variable según estándar y fabricante | Placas extendidas para equipos grandes |
-
-## 7. Idea fundamental
-
-Cuanto menor es la placa base, menos espacio ocupa, pero normalmente dispone de menos posibilidades de expansión.
-
-El factor de forma **no determina por sí solo la potencia del ordenador ni la compatibilidad del procesador**. También hay que comprobar el socket, el chipset y las especificaciones de cada componente.
-
 
 
 
