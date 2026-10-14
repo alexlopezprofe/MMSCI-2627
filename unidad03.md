@@ -202,10 +202,9 @@ También se deben revisar:
 
 
 
-{: .note-title }
-> Comparación de factor de forma
->
-> ![](assets/img/Unidad03/U351.png)
+### Comparación de factor de forma
+
+![](assets/img/Unidad03/U351.png)
 
 ## La estructura de la placa base
 
